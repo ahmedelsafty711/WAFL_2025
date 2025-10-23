@@ -22,8 +22,8 @@ safety, efficiency, and cost-effectiveness.
 WAFL_2025/
 ├─ README.md
 ├─ src/
-├─ docs/
-├─ hardware/
+├─ Documentation/
+├─ Low level/
 
 
 ## Team
