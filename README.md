@@ -1,4 +1,6 @@
-![WAFL Logo](file:///C:/Users/ahmed/OneDrive/Pictures/Screenshots/Screenshot%202025-10-23%20123045.png)
+<p align="center">
+  <img src="WAFL_Logo.png" alt="WAFL Logo" width="300"/>
+</p>
 
 # WAFL_2025
 
