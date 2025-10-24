@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WAFL_Logo.png" alt="WAFL Logo" width="300"/>
+  <img src="Project files/WAFL_Logo.png" alt="WAFL Logo" width="300"/>
 </p>
 
 # WAFL_2025
