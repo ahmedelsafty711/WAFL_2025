@@ -17,16 +17,8 @@ and build an intelligent, fully autonomous forklift that
 will revolutionize warehouse automation by improving
 safety, efficiency, and cost-effectiveness.
 
-## Project Structure
-
-WAFL_2025/
-├─ README.md
-├─ src/
-├─ Documentation/
-├─ Low level/
-
-
-## Team
+<details>
+<summary><strong>Team members</strong></summary>
 
 - Ahmed Elsafty
 - Ahmed Ashraf
@@ -35,6 +27,22 @@ WAFL_2025/
 - Malaak Mikhael
 - Mohamed Montasser
 - Omar Emad
+</details>
+
+<details>
+  <summary><strong>Project Structure</strong></summary>
+
+WAFL_2025/
+├─ README.md
+├─ src/
+├─ Low level/
+├─ Documentation/
+├─ Project files/
+
+
+</details>
+
+
 
 
 
